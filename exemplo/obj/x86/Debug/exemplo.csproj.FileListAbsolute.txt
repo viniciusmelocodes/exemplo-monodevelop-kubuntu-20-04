@@ -1,9 +1,5 @@
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/exemplo.exe
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/exemplo.pdb
-/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.csprojAssemblyReference.cache
-/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.csproj.CoreCompileInputs.cache
-/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.exe
-/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.pdb
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/System.Runtime.InteropServices.RuntimeInformation.dll
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/System.Security.Cryptography.Algorithms.dll
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/System.ValueTuple.dll
@@ -123,4 +119,7 @@
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/K4os.Hash.xxHash.xml
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/K4os.Compression.LZ4.Streams.xml
 /home/vinicius/Projects/exemplo/exemplo/bin/Debug/MySql.Data.xml
+/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.csproj.CoreCompileInputs.cache
 /home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.csproj.CopyComplete
+/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.exe
+/home/vinicius/Projects/exemplo/exemplo/obj/x86/Debug/exemplo.pdb

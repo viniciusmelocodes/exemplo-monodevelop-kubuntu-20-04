@@ -42,7 +42,7 @@ namespace exemplo
             {
                 string host = (string)reader["host"];
                 string user = (string)reader["user"];
-                textview1.Buffer.Text = "Host: " + host + " : Usuário:" + user;
+                textview1.Buffer.Text = "Host: " + host + " => Usuário: " + user;
             }
 
             // clean up
@@ -56,6 +56,7 @@ namespace exemplo
 
         protected void OnCliqueAquiMensagem(object sender, EventArgs e)
         {
+            this.connectionMysql();
             MessageDialog md = new MessageDialog(this, DialogFlags.DestroyWithParent,
             MessageType.Info,
             ButtonsType.Ok, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec justo volutpat, luctus nisl ut, rhoncus odio. Sed dui est, mattis id blandit eget, dignissim ut ante. Suspendisse congue, ex non semper vestibulum, augue nisi auctor libero, imperdiet imperdiet leo diam quis purus. Vestibulum sapien massa, imperdiet commodo dolor vitae, malesuada viverra ex. Duis ornare volutpat lectus. Integer nec rhoncus enim. Duis maximus, velit vitae viverra luctus, arcu orci scelerisque leo, non posuere quam risus viverra lectus. Donec in rutrum elit. Ut ac sem lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt lectus eu ligula venenatis maximus. Quisque ac tellus a leo semper porttitor non et magna.");
